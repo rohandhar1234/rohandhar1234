@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hey, I'm Rohan 👋🏼
+
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/rohandhar/)
+
 
 <!--
 **rohandhar1234/rohandhar1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
