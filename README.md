@@ -1,10 +1,10 @@
 # Hey, I'm Rohan 👋🏼
 
 
-## Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/rohandhar/)
-
+<p align='center'>
+<a href="https://instagram.com/_rohandhar"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rohandhar/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
 <!--
 **rohandhar1234/rohandhar1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
