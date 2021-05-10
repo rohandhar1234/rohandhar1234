@@ -7,6 +7,10 @@
 <a href="https://instagram.com/_rohandhar"><img height="30" src="https://github.com/rohandhar1234/rohandhar1234/blob/main/New-Instagram-logo.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
 
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rohandhar1234.rohandhar1234)
+
 <!--
 **rohandhar1234/rohandhar1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
