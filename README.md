@@ -3,7 +3,8 @@
 
 <p align='center'>
 <a href="https://www.rohandhar1234@gmail.com"><img height="30" src="https://github.com/rohandhar1234/rohandhar1234/blob/main/Gmail-logo.png?raw=true"></a>  
-<a href="https://www.linkedin.com/in/rohandhar/"><img height="30" src="https://github.com/rohandhar1234/rohandhar1234/blob/main/lnk.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/rohandhar/"><img height="30" src="https://github.com/rohandhar1234/rohandhar1234/blob/main/lnk.png?raw=true"></a>  
+<a href="https://leetcode.com/rohandhar1234/"><img height="30" src="https://github.com/rohandhar1234/rohandhar1234/blob/main/LeetCode_Sharing.png?raw=true"></a>
 <a href="https://instagram.com/_rohandhar"><img height="30" src="https://github.com/rohandhar1234/rohandhar1234/blob/main/New-Instagram-logo.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
 
